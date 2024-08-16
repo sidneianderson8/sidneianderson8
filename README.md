@@ -1,6 +1,6 @@
 ## Boa vindas ao meu perfil 💠
 
-Meu nome é Sidnei Anderson
+Meu nome é ""Sidnei"" Anderson
 
 - Estou estudando no Alura 
 - Estou me desenvolvendo em JavaScript
